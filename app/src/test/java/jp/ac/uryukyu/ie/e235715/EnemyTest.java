@@ -13,7 +13,7 @@ class EnemyTest {
             demoHero.attack(slime); // over kill
         }
         slime.attack(demoHero);
-        assertEquals(defaultHeroHp, demoHero.getHitPoint());
+        assertEquals(defaultHeroHp, demoHero.getHitpoint());
     }
 }
 
