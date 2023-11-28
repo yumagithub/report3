@@ -1,4 +1,7 @@
-package jp.ac.uryukyu.ie.e235715;
+
+
+import jp.ac.uryukyu.ie.e235715.Enemy;
+import jp.ac.uryukyu.ie.e235715.Hero;
 
 public class Main2 {
     public static void main(String[] args){
